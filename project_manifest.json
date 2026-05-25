@@ -1,0 +1,32 @@
+{
+  "project": "WIZARD ARENA",
+  "version": "codex-migration-package-001",
+  "entrypoint": "index.html",
+  "canvas": {
+    "width": 390,
+    "height": 844
+  },
+  "locked_wizards": [
+    {
+      "name": "AQUARIUS",
+      "element": "Water",
+      "color": "#1166ee"
+    },
+    {
+      "name": "ZEPHYR",
+      "element": "Air",
+      "color": "#88bbdd"
+    },
+    {
+      "name": "IGNIS",
+      "element": "Fire",
+      "color": "#ee5500"
+    },
+    {
+      "name": "TERRA",
+      "element": "Earth",
+      "color": "#33aa00"
+    }
+  ],
+  "notes": "Use WIZARD_ARENA_BIBLE.md and CODEX_INSTRUCTIONS.md before modifying index.html."
+}

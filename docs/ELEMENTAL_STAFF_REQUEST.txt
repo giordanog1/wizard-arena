@@ -1,0 +1,7 @@
+[Download Fire Staff](sandbox:/mnt/data/fire_staff.png)
+
+[Download Water Staff](sandbox:/mnt/data/water_staff.png)
+
+[Download Earth Staff](sandbox:/mnt/data/earth_staff.png)
+
+[Download Air Staff](sandbox:/mnt/data/air_staff.png)
